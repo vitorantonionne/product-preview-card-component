@@ -88,7 +88,7 @@ section > p#price {
 
 section >p#price del {
     position: absolute;
-    transform: translatey(1rem);
+    transform: translatey(1.1rem);
 
     font-family: 'Montserrat', sans-serif;
     font-size: 1.2rem;
