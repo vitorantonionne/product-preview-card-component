@@ -1,0 +1,40 @@
+@charset "UTF-08";
+
+@media  screen and (max-width: 603px) {
+
+    main {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+
+        width: 46rem;
+        height: 36rem;
+    }
+
+    img {
+        width: 24rem;
+    }
+
+   section {
+        padding: 2rem;
+    }
+
+   section > p#tittle {
+        margin-bottom: 1.5rem;
+    }
+
+   section > h1 {
+        margin-bottom: 2rem;
+    }
+
+   section > p#text {
+        margin-bottom: 1rem;
+
+        font-size: 1.5;
+    }
+
+   button {
+        width: 20rem;
+        height: 4rem;
+    }
+}

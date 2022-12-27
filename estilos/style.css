@@ -36,7 +36,7 @@ section {
     flex-direction: column;
 
     padding: 3.3rem;
-    /* justify-content: space-evenly; */
+    justify-content: space-evenly;
     
 }
 
@@ -53,14 +53,14 @@ section > p#tittle {
     color: #9D9DA4;
     margin-bottom: 2.7rem;
 
-    font-size: 1.3rem;
+    font-size: 1.4rem;
 }
 
 section > h1 {
     color: #181F25;
 
     font-family: 'Fraunces', serif;
-    font-size: 3rem;
+    font-size: 3.4rem;
     line-height: 3rem;
 
     margin-bottom: 3.4rem;
@@ -70,7 +70,7 @@ section > p#text {
     font-family: 'Montserrat', sans-serif;
     color: #9D9DA4;
 
-    font-size: 1.3rem;
+    font-size: 1.4rem;
 
     margin-bottom: 3.8rem;
 }
@@ -91,15 +91,16 @@ section >p#price del {
     transform: translatey(1.1rem);
 
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     color: #9D9DA4;
 
-    margin-left: 3rem;
+    margin-left: 2rem;
 }
 
 button {
     height: 4.8rem;
     width: 23.6rem;
+    padding: 1.5rem;
 
     cursor: pointer;
     border: none;
@@ -122,9 +123,8 @@ button img {
 }
 
 button:hover {
-    background-color: #3fa882;
+    background-color: #163b2e;
 }
-
 
 /*  small #9D9DA4  h1 #181F25   preço/button #3D8269 
 
@@ -132,37 +132,6 @@ font-family: 'Fraunces', serif;
 font-family: 'Montserrat', sans-serif;
 
 */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .attribution { 
     font-size: 11px; 
