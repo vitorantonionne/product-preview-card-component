@@ -28,8 +28,9 @@ section {
     height: 40.6rem;
 
     border-radius: 1rem;
+    box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.144);
 
-    /* transition: width .3s, height .6s; */
+    transition: width .3s, height .6s;
 }
 
 
@@ -47,16 +48,14 @@ section > div#imag {
 div#text {
     padding-left: 2.9rem;
     padding-top: 3.2rem;
-
 }
 
 div#text > p#tittle {
-
     font-family: 'Montserrat', sans-serif;
     color: #9D9DA4;
-    margin-bottom: 2rem;
-
     font-size: 1.2rem;
+
+    margin-bottom: 2rem;
 }
 
 div#text >  h1 {
@@ -64,15 +63,16 @@ div#text >  h1 {
 
     font-family: 'Fraunces', serif;
     font-size: 3.2rem;
-    line-height: 3.1rem;
+    width: 20rem;
 
+    line-height: 3.1rem;
     margin-bottom: 2rem;
 }
 
 div#text > p#textt {
     font-family: 'Montserrat', sans-serif;
     color: #9D9DA4;
-
+    width: 21rem;
     font-size: 1.3rem;
 
     margin-bottom: 2rem;
@@ -130,12 +130,15 @@ div#text > button:hover {
 }
 
 .attribution { 
+    color: rgba(0, 0, 0, 0.541);
+    
     position: fixed;
     bottom: 0.7rem;
+
     font-size: 1.3rem;
     text-align: center; 
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: gray; 
 }
