@@ -12,11 +12,11 @@
 
 body {
     background-color: #F3EAE3;
-    height: 100vh;
 
+    height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
 }
 
@@ -33,12 +33,7 @@ main {
 }
 
 section {
-    display: flex;
-    flex-direction: column;
-
-    padding: 3.3rem;
-    justify-content: space-evenly;
-    
+    padding: 3.3rem;    
 }
 
 img {
@@ -128,7 +123,9 @@ button:hover {
 }
 
 .attribution { 
-    font-size: 11px; 
+    position: fixed;
+    bottom: 0.7rem;
+    font-size: 1.3rem;
     text-align: center; 
 }
 
