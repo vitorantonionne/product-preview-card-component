@@ -12,11 +12,12 @@
 
 body {
     background-color: #F3EAE3;
-    
-    display: grid;
-    place-items: center;
-    align-items: flex-end;
     height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 main {
@@ -125,13 +126,6 @@ button img {
 button:hover {
     background-color: #163b2e;
 }
-
-/*  small #9D9DA4  h1 #181F25   preço/button #3D8269 
-
-font-family: 'Fraunces', serif;
-font-family: 'Montserrat', sans-serif;
-
-*/
 
 .attribution { 
     font-size: 11px; 
