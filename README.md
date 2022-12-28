@@ -63,8 +63,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 Always improving responsiveness and content rendering adapt to different screens.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries) - Always practice redefining multiple screens, essential for a good project.
