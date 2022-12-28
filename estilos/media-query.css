@@ -1,5 +1,24 @@
 @charset "UTF-08";
 
-@media screen {
-    
+@media screen and (max-width: 603px) {
+    main {
+        display: grid;
+        width: 34.3rem;
+        height: 61.1rem;
+    }
+
+    img {
+        display: none;
+    }
+
+    picture > div#img {
+        
+        background: black url('../assets/images/image-product-mobile.jpg') no-repeat top center;
+        background-size: cover;
+        height: 24rem;
+        width: 34.3rem;
+    }
+
+
+
 }

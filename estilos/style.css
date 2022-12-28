@@ -20,58 +20,65 @@ body {
     align-items: center;
 }
 
-main {
-    background-color: white;
-
+section {
+    background-color: white;    
     display: flex;
 
-    width: 60rem;
-    height: 45rem;
+    width: 54.2rem;
+    height: 40.6rem;
 
-    border-radius: 1.2rem;
-    box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.123);
+    border-radius: 1rem;
+
+    /* transition: width .3s, height .6s; */
 }
 
-section {
-    padding: 3.3rem;    
+
+section > div#imag {
+    background: black url('../assets/images/image-product-desktop.jpg') center center;
+    background-size: cover;
+
+    width: 27.1rem;
+    height: 40.6rem;
+
+    border-top-left-radius: 1rem; 
+    border-bottom-left-radius: 1rem;
 }
 
-img {
-    width: 30rem;
-    height: 45rem;
+div#text {
+    padding-left: 2.9rem;
+    padding-top: 3.2rem;
 
-    border-top-left-radius: 1.2rem;
-    border-bottom-left-radius: 1.2rem;
 }
 
-section > p#tittle {
+div#text > p#tittle {
+
     font-family: 'Montserrat', sans-serif;
     color: #9D9DA4;
-    margin-bottom: 2.7rem;
+    margin-bottom: 2rem;
 
     font-size: 1.4rem;
 }
 
-section > h1 {
+div#text >  h1 {
     color: #181F25;
 
     font-family: 'Fraunces', serif;
     font-size: 3.4rem;
-    line-height: 3rem;
+    line-height: 3.1rem;
 
-    margin-bottom: 3.4rem;
+    margin-bottom: 2rem;
 }
 
-section > p#text {
+div#text > p#textt {
     font-family: 'Montserrat', sans-serif;
     color: #9D9DA4;
 
     font-size: 1.4rem;
 
-    margin-bottom: 3.8rem;
+    margin-bottom: 2rem;
 }
 
-section > p#price {
+div#text > p#price {
     color: #3D8269;
     font-family: 'Fraunces', serif;
 
@@ -79,10 +86,10 @@ section > p#price {
 
     position: relative;
 
-    margin-bottom: 3.1rem;
+    margin-bottom: 2.4rem;
 }
 
-section >p#price del {
+div#text > p#price del {
     position: absolute;
     transform: translatey(1.1rem);
 
@@ -93,9 +100,9 @@ section >p#price del {
     margin-left: 2rem;
 }
 
-button {
+div#text > button {
     height: 4.8rem;
-    width: 23.6rem;
+    width: 21.3rem;
     padding: 1.5rem;
 
     cursor: pointer;
@@ -109,7 +116,7 @@ button {
     border-radius: 1rem;   
 }
 
-button img {
+div#text > button img {
     width: 1.6rem;
     height: 1.6rem;
 
@@ -118,7 +125,7 @@ button img {
     margin-right: 0.5rem;
 }
 
-button:hover {
+div#text > button:hover {
     background-color: #163b2e;
 }
 
