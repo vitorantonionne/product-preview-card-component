@@ -1,4 +1,5 @@
 # Frontend Mentor - Product preview card component solution
+![image](https://user-images.githubusercontent.com/114239671/209869689-9d7d1277-af71-432b-ad0f-523550d721c6.png)
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
