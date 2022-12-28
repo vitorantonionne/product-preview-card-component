@@ -55,5 +55,5 @@ Always improving responsiveness and content rendering adapt to different screens
 
 ## Author
 
-- Website - [@vitorantonionne](https://github.com/vitorantonionne)
+- Website - [github](https://github.com/vitorantonionne)
 - Frontend Mentor - [@vitorantonionne](https://www.frontendmentor.io/profile/vitorantonionne)
