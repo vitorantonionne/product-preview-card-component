@@ -56,14 +56,14 @@ div#text > p#tittle {
     color: #9D9DA4;
     margin-bottom: 2rem;
 
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 div#text >  h1 {
     color: #181F25;
 
     font-family: 'Fraunces', serif;
-    font-size: 3.4rem;
+    font-size: 3.2rem;
     line-height: 3.1rem;
 
     margin-bottom: 2rem;
@@ -73,7 +73,7 @@ div#text > p#textt {
     font-family: 'Montserrat', sans-serif;
     color: #9D9DA4;
 
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 
     margin-bottom: 2rem;
 }
@@ -82,7 +82,7 @@ div#text > p#price {
     color: #3D8269;
     font-family: 'Fraunces', serif;
 
-    font-size: 3rem;
+    font-size: 2.9rem;
 
     position: relative;
 
@@ -94,7 +94,7 @@ div#text > p#price del {
     transform: translatey(1.1rem);
 
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: #9D9DA4;
 
     margin-left: 2rem;
