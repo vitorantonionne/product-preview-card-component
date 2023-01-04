@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-RMwLOcQC__)
+- Solution URL: ([https://www.frontendmentor.io/solutions/product-preview-card-component-RMwLOcQC__])
 - Live Site URL: (https://vitorantonionne.github.io/product-preview-card-component/)
 
 ## My process
